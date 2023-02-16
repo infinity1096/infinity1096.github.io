@@ -14,7 +14,7 @@ Research interest
 ======
 I see robots as the bridge between the digital world and the reality. I aim to become a research scientist and develop algorithms that would enable robots to locomote in current infrastructure, a prerequisite for performing manipulations. Specifically, I am interested in robot locomotion in unmodeled environments and online adaptation that accounts for model inaccuracies/hardware changes over time. Especially, I am interested in real-world verification of ideas.
 
-Publications
+Recent News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
