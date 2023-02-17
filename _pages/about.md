@@ -19,9 +19,8 @@ Recent News
 1. I compiled my experience with photometric calibration into a document.
 2. 
 3. I joined Existential Robotics Lab to work on learning drone dynamics under professor Nikolay Atanasov. 
-4. 
+4. I joined Wang Lab to work on learning drone dynamics under professor Nikolay Atanasov.
 5. 
-6. 
 
 ------
 <div align="center">
