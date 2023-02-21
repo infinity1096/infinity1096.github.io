@@ -1,9 +1,12 @@
 ---
 title: "2019 FRC robot"
-excerpt: "<br/><div class='image-container'>
+excerpt: "<br/>
+<img width='200' height='200' align='left' class='rounded-image' src=''> 
+
+<div class='image-container'>
   <img src='/images/robots/2019FRC_square.jpg' alt='robot1' class='resizable-image'>
   <div class='image-description'>
-    <p>This is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example description</p>
+    <p>This is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example description222</p>
   </div>
 </div>
 
