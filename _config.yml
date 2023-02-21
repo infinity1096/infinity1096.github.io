@@ -187,6 +187,9 @@ collections:
   robots:
     output: true
     permalink: /:collection/:path/
+  academic_projects:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/

@@ -12,6 +12,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "academic projects"
+    url: /academic_projects/
+
   - title: "Robots"
     url: /robots/   
 
