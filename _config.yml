@@ -190,6 +190,9 @@ collections:
   academic_projects:
     output: true
     permalink: /:collection/:path/
+  personal_projects:
+    output: true
+    permalink: /:collection/:path/
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -242,7 +245,24 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _academic_projects
+  - scope:
+      path: ""
+      type: academic_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _personal_projects
+  - scope:
+      path: ""
+      type: personal_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _robots
   - scope:
       path: ""
