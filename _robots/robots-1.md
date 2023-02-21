@@ -1,7 +1,7 @@
 ---
 title: "2019 FRC robot"
 excerpt: "<br/>
-<img width='200' height='200' align='left' src='/images/robots/2019FRC_square.jpg'> 
+<img width='200' height='200' align='left' class='rounded-image' src='/images/robots/2019FRC_square.jpg'> 
 
 This is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example description
 "
