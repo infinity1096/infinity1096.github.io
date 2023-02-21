@@ -10,8 +10,6 @@ excerpt: "<div class='image-container'>
 "
 collection: robots
 ---
-![image](../images/robots/2019FRC.jpg)
-![image](../images/robots/2019FRC2.jpg)
-![image](../images/robots/2019FRC3.jpg)
-
-
+<img src='/images/robots/2019FRC.jpg'>
+<img src='/images/robots/2019FRC2.jpg'>
+<img src='/images/robots/2019FRC3.jpg'>
