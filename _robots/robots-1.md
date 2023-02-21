@@ -1,6 +1,6 @@
 ---
-title: "Robots item number 1"
-excerpt: "Robots 1 <br/><img src='/images/500x300.png'>"
+title: "2019 FRC robot"
+excerpt: "Robots 1 <br/><img align='right' src='/images/robots/2019FRC_square.jpg'>"
 collection: robots
 ---
 
