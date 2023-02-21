@@ -12,6 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+<link rel="stylesheet" href="{{ base_path }}/assets/css/custom_image.css"/>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
