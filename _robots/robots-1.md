@@ -1,6 +1,10 @@
 ---
 title: "2019 FRC robot"
-excerpt: "Robots 1 <br/><img align='right' src='/images/robots/2019FRC_square.jpg'>"
+excerpt: "<br/>
+<img width='200' height='200' align='right' src='/images/robots/2019FRC_square.jpg'> 
+
+This is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example descriptionThis is an example description
+"
 collection: robots
 ---
 
