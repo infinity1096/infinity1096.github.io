@@ -10,13 +10,20 @@ excerpt: "<div class='image-container'>
 "
 collection: robots
 ---
-# Beagle Bagels Quadcoptor
 
 ## Flight video
 [![Watch the video](https://img.youtube.com/vi/rl2HW74NHhA/maxresdefault.jpg)](https://youtu.be/rl2HW74NHhA)
 
 
 # Hardware Design
+
+## Reference Design for Tuning
+![pcb](/images/projects/quad_ref_square.jpeg)
+
+
+## Our design
+![pcb](/images/projects/quad_ours_square.jpeg)
+
 
 ## Schematics
 ![sch](/images/projects/quad/sch.PNG)
@@ -103,7 +110,7 @@ to use which one only need to call ```append()``` repeatedly.
 
 On simulink side, we used the serial receive block in **Motor Control Blockset**. Set the starting data to 'SSSS' and ending data to 'EEEE'. This 4 chars occupy the size of a float, aligning the data. ```Data size``` also need to match the ```buf_length``` and size of ```T```.
 
-<img src="/images/projects/quad/5.png" width="400" style="display: block; margin: 0 auto">
+<img src="/images/projects/quad/5.PNG" width="400" style="display: block; margin: 0 auto">
 
 ## Flight Control
 We used PID control on Roll, Pitch, and Yaw angular velocity. We used a approximate model to guide our tuning:
