@@ -236,6 +236,17 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
+  # _robots
+  - scope:
+      path: ""
+      type: robots
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
   # # _talks
   # - scope:
   #     path: ""
