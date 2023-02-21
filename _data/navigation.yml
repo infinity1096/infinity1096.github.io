@@ -15,6 +15,9 @@ main:
   - title: "academic projects"
     url: /academic_projects/
 
+  - title: "personal projects"
+    url: /personal_projects/
+
   - title: "Robots"
     url: /robots/   
 
