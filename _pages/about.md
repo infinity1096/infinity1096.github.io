@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a robot enthusiast since inception of my middleschool, currently learning at the University of California, San Diego for Electrical Engineering Major with a depth in Mechine Learning and Control. I have applied to graduate robotics programs and is currently deciding my next step in robotics. 
+I am a robot enthusiast since inception of my middleschool, continuing my journey at the University of California, San Diego for Electrical Engineering Major with a depth in Mechine Learning and Control. I have applied to graduate robotics programs and is currently deciding my next step in robotics. 
 
 Research interest
 ======
