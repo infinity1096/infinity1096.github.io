@@ -17,7 +17,7 @@ This module is designed for localization need of my club Yonder Dynamics. I desi
 Github link: [link](https://github.com/infinity1096/XIMU)
 
 <img src='/images/projects/XIMU_assembled.jpg'>
-<img src='/images/projects/XIMU_information_flow.jpg'>
+<img src='/images/projects/XIMU_information_flow.png'>
 
 ## Processing
 I learned to use ESKF to fuse all information. Below is my processing algorithm ran on utbm dataset for validation.
