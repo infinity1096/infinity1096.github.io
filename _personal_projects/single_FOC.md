@@ -11,3 +11,15 @@ excerpt: "<div class='image-container'>
 collection: personal_projects
 ---
 
+## Design Documents
+
+<img src='/images/projects/quadrature_SCH1.png'>
+<img src='/images/projects/quadrature_SCH2.png'>
+<img src='/images/projects/quadrature_SCH3.png'>
+
+<img src='/images/projects/quadrature_PCB1.png'>
+
+## PID tuning: current loop step response
+
+<img src='/images/projects/quadrature_freq.png'>
+
