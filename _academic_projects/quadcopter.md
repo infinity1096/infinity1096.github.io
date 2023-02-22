@@ -8,7 +8,7 @@ excerpt: "<div class='image-container'>
 </div>
 
 "
-collection: robots
+collection: academic_projects
 ---
 
 ## Flight video
