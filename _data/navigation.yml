@@ -18,8 +18,8 @@ main:
   - title: "personal projects"
     url: /personal_projects/
 
-  - title: "Robots"
-    url: /robots/   
+  # - title: "Robots"
+  #   url: /robots/   
 
   # - title: "Blog Posts"
   #   url: /year-archive/
