@@ -20,6 +20,5 @@ collection: personal_projects
 <img src='/images/projects/gimbal3.jpg'>
 
 ## Demo
-<iframe src="https://www.bilibili.com/video/BV1gZ4y1G79x/" width="100%" height="500px">
-</iframe>
+[View video here](https://www.bilibili.com/video/BV1gZ4y1G79x/)
 
