@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-[download pdf here](http://infinity1096.github.io/files/CV_Yuchen_Zhang.pdf)
 
+<iframe src="http://infinity1096.github.io/files/CV_Yuchen_Zhang.pdf" width="100%" height="500px">
+</iframe>
+
+[download pdf here](http://infinity1096.github.io/files/CV_Yuchen_Zhang.pdf)
+<!-- 
 Education
 ======
 * B.S. in Electrical Engineering, UCSD, expected 2023
@@ -78,7 +82,7 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
