@@ -20,7 +20,7 @@ Recent News
 2. I joined Existential Robotics Lab to work on learning drone dynamics under professor Nikolay Atanasov. 
 3. Our paper Vision-Guided Quadrupedal Locomotion in the Wild with Multi-Modal Delay Randomization is accepted to IROS 22. 
 4. I am accepted as a SRIP student to work on Unitree A1 robot in summer 2021. 
-5. I joined Wang Lab to work on learning drone dynamics under professor Xiaolong Wang.
+5. I joined Wang Lab to work on quadruped locomotion sim2real under professor Xiaolong Wang.
 
 ------
 <div align="center">
