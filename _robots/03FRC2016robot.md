@@ -3,7 +3,7 @@ title: "2016 FRC robot"
 excerpt: "<div class='image-container'>
   <img src='/images/robots/website_under_construction.png' alt='robot1' class='resizable-image'>
   <div class='image-description'>
-    <p>website under construction </p>
+    <p> Robot for 2016 FRC Stronghold. capable of catapulting ball to a target tower. Learned how to segment and track reflection markers using OpenCV. </p>
   </div>
 </div>
 
