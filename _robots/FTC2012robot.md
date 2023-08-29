@@ -1,5 +1,5 @@
 ---
-title: "2019 FRC robot"
+title: "2012 FTC robot"
 excerpt: "<div class='image-container'>
   <img src='/images/robots/2019FRC_square.jpg' alt='robot1' class='resizable-image'>
   <div class='image-description'>
