@@ -24,5 +24,5 @@ Recent News
 
 ------
 <div align="center">
-  <i> knowledge as structure, complexity as data </i>
+  <i>  </i>
 <div>
