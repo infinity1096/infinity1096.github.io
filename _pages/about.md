@@ -12,7 +12,9 @@ I am a robot enthusiast since inception of my middleschool, continuing my journe
 
 Research interest
 ======
-I see robots as the bridge between the digital world and the reality. I aim to become a research scientist and develop algorithms that would enable robots to locomote in current infrastructure, a prerequisite for performing manipulations. Specifically, I am interested in robot locomotion in unmodeled environments and online adaptation that accounts for model inaccuracies/hardware changes over time. Especially, I am interested in real-world verification of ideas.
+I see robots as the bridge between the digital world and the reality. I aim to become a research scientist and develop algorithms that would enable robots more intelligent to work for people in their daily lives. My current focus is locomotion, a prerequisite for performing manipulations on site.
+
+Approach wise, I’d like to combine learning with existing methods (e.g., Model-based solutions, optimization-based approach) and data as priors to enabling efficient learning. Especially, I am interested in real-world verification of ideas.
 
 Recent News
 ======
