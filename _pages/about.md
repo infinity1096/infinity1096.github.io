@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a robot enthusiast since inception of my middleschool, continuing my journey at Carnegie Mellon University in the Master's of Robotics program. I did my undergraduate in University of California, San Diego for Electrical Engineering Major with a depth in Mechine Learning and Control. 
+I am a robot enthusiast since inception of my middleschool, continuing my journey at Carnegie Mellon University in the Master's of Robotics program. I did my undergraduate in University of California, San Diego for Electrical Engineering Major with a depth in Mechine Learning and Control.  
 
 Research interest
 ======
